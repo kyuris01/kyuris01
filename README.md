@@ -2,10 +2,11 @@
 Hi my name is Chris.
 I am probie backend developer.
 # Stacks
-* python, java, c, c++
-* flask, spring
+* python, (java, c, c++)
+* flask, (spring, nodejs)
 * html, css, javascript
-* docker, aws
+* MYSQL, (MARIADB)
+* (docker, aws)
 
 ![etc](https://c4.wallpaperflare.com/wallpaper/13/629/235/anime-studio-ghibli-karigurashi-no-arrietty-house-wallpaper-preview.jpg)
 <!--
