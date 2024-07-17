@@ -1,6 +1,6 @@
 # Introduction
 Hi my name is Chris.
-I am probie backend developer.
+I am backend developer.
 # Stacks
 * python, (java, c, c++)
 * flask, (spring, nodejs)
