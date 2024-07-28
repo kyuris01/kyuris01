@@ -3,10 +3,10 @@ Hi my name is Chris.
 I am backend developer.
 # Stacks
 * python, (java, c, c++)
-* flask, (spring, nodejs)
+* flask, (spring)
 * html, css, javascript
 * MYSQL, (MARIADB)
-* (docker, aws)
+* docker, aws
 
 ![etc](https://c4.wallpaperflare.com/wallpaper/13/629/235/anime-studio-ghibli-karigurashi-no-arrietty-house-wallpaper-preview.jpg)
 <!--
