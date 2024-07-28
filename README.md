@@ -3,7 +3,7 @@ Hi my name is Chris.
 I am backend developer.
 # Stacks
 * python, (java, c, c++)
-* flask <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>, (spring)
+* flask, (spring)
 * html, css, javascript
 * MYSQL, (MARIADB)
 * docker, aws
