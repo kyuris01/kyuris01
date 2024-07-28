@@ -2,6 +2,8 @@
 Hi my name is Chris.
 I am backend developer.
 
+![etc](https://c4.wallpaperflare.com/wallpaper/13/629/235/anime-studio-ghibli-karigurashi-no-arrietty-house-wallpaper-preview.jpg)
+
 # Stacks
   ## Programming Language
   * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +26,7 @@ I am backend developer.
 # Studying
   * ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![etc](https://c4.wallpaperflare.com/wallpaper/13/629/235/anime-studio-ghibli-karigurashi-no-arrietty-house-wallpaper-preview.jpg)
+
 
 <!--
 **kyuris01/kyuris01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
