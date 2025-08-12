@@ -6,7 +6,7 @@
 * 피상적인 개발이 아니라, 동작을 이해하고 전체 아키텍처를 보는 개발을 할 수 있는 개발자가 되기위해 노력합니다
 * 단순히 사용하기 좋은 UI를 넘어서 사용자에게 심미성을 제공할 수 있는 UI를 추구합니다
 * contact : chrisahn1007@gmail.com
-* blog : https://velog.io/@kyuris01/posts
+* blog : https://angry-kettle-22b.notion.site/245aee41c80e80d18929c65fbd5f90ef
 
 ---
 
