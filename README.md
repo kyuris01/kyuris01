@@ -2,7 +2,7 @@
 ![visitors](https://komarev.com/ghpvc/?username=kyuris01&color=blue)
 
 # 👋 Introduction
-* web developer
+* IT Engineer
 * contact : chrisahn1007@gmail.com
 * blog : https://angry-kettle-22b.notion.site/245aee41c80e80d18929c65fbd5f90ef
 
@@ -12,7 +12,7 @@
 
 | 기간 | 활동 |
 |------|------|
-| 2024.03 ~ 현재 | 건국대학교 컴퓨터공학부 |
+| 2024.03 ~ 2026.08 | 건국대학교 컴퓨터공학부 |
 | 2025.03 ~ 2025.08 | 건국대학교 교내 IT 동아리 KUIT WEB 5기 |
 ---
 
